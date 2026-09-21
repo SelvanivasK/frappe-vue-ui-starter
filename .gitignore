@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+coverage/
+
+# Local files
+*.local
+.DS_Store
+
+# Frappe / local environment
+sites/

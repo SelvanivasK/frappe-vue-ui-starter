@@ -110,14 +110,9 @@ You can access the built page through:
 /frontend
 ```
 
-## Acknowledgement
 
-Based on the `doppio_frappeui_starter` project by Gowtham-L, with configuration changes for the current Frappe UI and Vite setup.
+## Credits
 
-Retain the original project's license and attribution where required.
+Based on the original doppio_frappeui_starter by Gowtham-L.
 
-##Credits
-
-This starter is based on the original doppio_frappeui_starter created by Gowtham-L.
-
-Modified and updated with additional configuration changes for Frappe UI, Tailwind CSS, and Vite compatibility.
+Modified with updated configuration for Frappe UI, Tailwind CSS, and Vite compatibility.
